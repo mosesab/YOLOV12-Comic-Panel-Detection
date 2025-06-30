@@ -4,6 +4,8 @@ This repository contains a complete workflow for fine-tuning a **YOLOv12** model
 
 The primary goal is to demonstrate an end-to-end process: from setting up the environment and loading a pre-trained model to training, validating, and performing inference on new images.
 
+*Visit this space to try out the model right now: [`The_Best_Comic_Panel_Detection`](https://huggingface.co/spaces/mosesb/best-comic-panel-detection).*
+
 ![Example Prediction](my_yolo_train/prediction/LTB001_247_jpg.rf.2b6fef98840c5669845b035be2179161.jpg)
 
 ## Key Features
