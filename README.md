@@ -1,5 +1,8 @@
 # YOLOv12 Comic Panel Detection
 
+📌 **Notebook moved to Kaggle:**  
+👉 https://www.kaggle.com/code/themosesab/finetuning-yolov12-comic-panel-detection
+
 This repository contains a complete workflow for fine-tuning a **YOLOv12** model to detect panels in comic book pages. The project uses the powerful Ultralytics library and a custom dataset managed on Roboflow.
 
 The primary goal is to demonstrate an end-to-end process: from setting up the environment and loading a pre-trained model to training, validating, and performing inference on new images.
